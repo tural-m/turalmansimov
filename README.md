@@ -27,7 +27,7 @@ Currently holding:
 | [Supply Chain Analytics](link) | Snowflake · Power BI | Medallion architecture + 6-page exec dashboard |
 | [Healthcare Analytics](link) | Snowflake · Power BI | [brief description] |
 | [Sales Analytics](link) | Snowflake · Power BI | [brief description] |
-| [Cortex AI Sentiment Analysis](link) | Snowflake Cortex · Power BI | NLP sentiment on 480 support tickets |
+| [Cortex AI Sentiment Analysis](link) | Snowflake Cortex · Power BI | NLP sentiment on 1000 support tickets |
 
 ## 📫 Connect
 www.linkedin.com/in/tural-m
